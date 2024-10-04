@@ -1,3 +1,3 @@
 HTML-CSS-JS-GSAP ile yapılmış örnek sayfadır
 
-![Screenshot](./assets/ss1.png)(https://gravity-footer-sample.vercel.app/)
+![Screenshot](./assets/ss1.png)(https://menu-open-sample.vercel.app/)
